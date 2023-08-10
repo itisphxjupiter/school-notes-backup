@@ -1,2 +1,2 @@
 # school-notes
-# my school notes lol
+this is where i put all of my school notes for my classes
