@@ -1,2 +1,2 @@
-# school-notes-backup
-my school notes lol
+# school-notes
+# my school notes lol
